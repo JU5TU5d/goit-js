@@ -1,1 +1,1 @@
-# goit-fe-cours
+# goit-js
