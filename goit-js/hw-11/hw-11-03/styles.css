@@ -1,0 +1,47 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family:'Comic Sans MS', sans-serif;
+  flex-direction: column;
+  color: #212121;
+}
+.happy-100 {
+  font-size: 48px;
+  margin: 0;
+  padding: 15px 0;
+}
+
+.timer {
+  display: flex;
+  margin: 0 auto;
+}
+
+.value, .label {
+  display: block;
+  text-align: center;
+}
+.value {
+  
+  font-size: 80px;
+  margin: 0 10px;
+  position: relative;
+  background-color: #212121;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 15px rgba(63, 77, 16, 0.9);
+  border-radius: 10px;
+  padding: 10px 15px;
+}
+
+
