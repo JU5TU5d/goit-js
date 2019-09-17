@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/503292/goit-js-hw-01/hw-10-theme.git"
+    "url": "git+https://github.com/JU5TU5d/goit-js-hw-01/hw-10-theme.git"
   },
   "keywords": [],
-  "author": "Maxym Kalysh <503292@ukr.net>",
+  "author": "Vlad <justusd@ukr.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/503292/goit-js-hw-01/hw-10-theme/issues"
+    "url": "https://github.com/JU5TU5d/goit-js-hw-01/hw-10-theme/issues"
   },
-  "homepage": "https://github.com/503292/goit-js-hw-01/hw-10-theme#readme",
+  "homepage": "https://github.com/JU5TU5d/goit-js-hw-01/hw-10-theme#readme",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
